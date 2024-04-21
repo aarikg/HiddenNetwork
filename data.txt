@@ -1,0 +1,2 @@
+website.com`This project was made for ScratchGameJam by hidden devs.
+website2.com`This, along with the first website, are both premade websites for testing.
