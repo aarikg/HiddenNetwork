@@ -1,5 +1,5 @@
 import os
-os.system("pip install scratchattach")
+os.system(r"pip3 install scratchattach")
 sessionId = ".eJxVkLtuhDAQRf_FdUKwAduh20RIifIoaKKtkB8DeAEbYaPdJMq_x5a22XbOzNGd-4t2D5sVC6AaXT6-fTBKzO8wgNXoDgU3gY2kkoSTR6Upx7RkveB5D6qgmrBCUKJxncPb0Tft8xet2pcTlk1OX9nerRfdRM3sBmPvzRpNjGUY44yUNMNlRJ3Yw9ilEJ3RkVNeEYoZi0ifhB1cF8wCP86mgIcFtpjv4RPO3dFt0-39KPwYlyRnjCgNDHMihMJC57zCQKgimJU9SJpLWpSQ3gMflHOTSfJzFIK-VUqhptREjdIMbGonGGezK_BZC-t8HT5dl__-AeB9bgQ:1ryFoc:1mDcN_Lu6O6zSpj-5sqa_hkrOkM"
 
 import scratchattach as scratch3
